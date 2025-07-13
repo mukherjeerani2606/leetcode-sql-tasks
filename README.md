@@ -2,24 +2,23 @@
 Celebal Internship Task – SQL Problems from LeetCode
 
 1. [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+'''sql
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y' AND recyclable = 'Y';
 
 
-2. [Customer Who Never Orders] https://leetcode.com/problems/customers-who-never-order/description/
+3. [Customer Who Never Orders] https://leetcode.com/problems/customers-who-never-order/description/
 
-   '''
+   '''sql
    SELECT name AS Customers
 FROM Customers
 WHERE id NOT IN (
   SELECT customerId FROM Orders
-
 );
-'''
 
 
-3. [Employees Earning More Than Their Managers] https://leetcode.com/problems/employees-earning-more-than-their-managers/?source=submission-ac
+4. [Employees Earning More Than Their Managers] https://leetcode.com/problems/employees-earning-more-than-their-managers/?source=submission-ac
 
 SELECT e.name AS Employee
 FROM Employee e
