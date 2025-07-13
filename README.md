@@ -9,11 +9,14 @@ WHERE low_fats = 'Y' AND recyclable = 'Y';
 
 2. [Customer Who Never Orders] https://leetcode.com/problems/customers-who-never-order/description/
 
+   '''
    SELECT name AS Customers
 FROM Customers
 WHERE id NOT IN (
   SELECT customerId FROM Orders
+
 );
+'''
 
 
 3. [Employees Earning More Than Their Managers] https://leetcode.com/problems/employees-earning-more-than-their-managers/?source=submission-ac
