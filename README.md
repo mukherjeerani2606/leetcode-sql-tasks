@@ -19,3 +19,19 @@ Celebal Internship Task – SQL Problems from LeetCode
 
 5. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
    -  [Solution](./leetcode.Second%20Highest%20Salary)
+
+6. [Rising Temperature](https://leetcode.com/problems/rising-temperature/)
+   -  [Solution](./leetcode.Rising%20Temperature)
+
+7. [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
+   -  [Solution](./leetcode.Consecutive%20Numbers)
+
+8. [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
+   -  [Solution](./leetcode.Department%20Highest%20Salary)
+  
+9. [Customers Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customers-who-visited-but-did-not-make-any-transactions/)
+   - [Solution](./leetcode.Customers%20Who%20Visited%20But%20Did%20Not%20Make%20Any%20Transactions)
+
+10. [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)
+    - [Solution](./leetcode.Not%20Boring%20Movies)
+
