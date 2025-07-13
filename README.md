@@ -2,7 +2,7 @@
 Celebal Internship Task – SQL Problems from LeetCode
 
 1. [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
-'''sql
+```sql
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y' AND recyclable = 'Y';
