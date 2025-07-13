@@ -20,14 +20,9 @@ Celebal Internship Task – SQL Problems from LeetCode
 5. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
    -  [Solution](./leetcode.Second%20Highest%20Salary)
 
-6. [Rising Temperature](https://leetcode.com/problems/rising-temperature/)
-   -  [Solution](./leetcode.Rising%20Temperature)
 
-7. [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)
-   -  [Solution](./leetcode.Consecutive%20Numbers)
 
-8. [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)
-   -  [Solution](./leetcode.Department%20Highest%20Salary)
+
   
 
 
