@@ -9,7 +9,7 @@ FROM Products
 WHERE low_fats = 'Y' AND recyclable = 'Y';
 
 
-3. [Customer Who Never Orders] https://leetcode.com/problems/customers-who-never-order/description/
+###2. [Customer Who Never Orders] https://leetcode.com/problems/customers-who-never-order/description/
 
    ```sql
    SELECT name AS Customers
@@ -19,7 +19,7 @@ WHERE id NOT IN (
 );
 
 
-4. [Employees Earning More Than Their Managers] https://leetcode.com/problems/employees-earning-more-than-their-managers/?source=submission-ac
+3. [Employees Earning More Than Their Managers] https://leetcode.com/problems/employees-earning-more-than-their-managers/?source=submission-ac
 ```sql
 SELECT e.name AS Employee
 FROM Employee e
