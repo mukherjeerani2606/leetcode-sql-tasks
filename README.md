@@ -3,7 +3,7 @@
 
 Celebal Internship Task – SQL Problems from LeetCode
 
-## 🔗 Problem List
+##  Problem List
 
 1. [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
    -  [Solution](./leetcode.Recyclable%20and%20Low%20Fat%20Products)
